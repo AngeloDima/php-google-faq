@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo{
+    width: 95%;
+    margin: auto;
+}
+
+.logo h2{
+    display: inline-block;
+}
+
+.info-menu {
+    margin-top: 20px;
+    width: 95%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    
+}
+
+.info-menu a{
+    margin: 0px 10px;
+    text-decoration: none;
+}
