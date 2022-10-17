@@ -84,7 +84,9 @@ $array = [
 
 
 <!-- -----------------------SEC ONE--------------------------- -->
-    <div class="sec">
+
+<div class="container">
+<div class="sec">
         <h2> <?= $section_one["Titolo"] ?> </h2>
         <p> <?= $section_one["Paragrafo"] ?> </p>
         <p> <?= $section_one["Paragrafo2"] ?> </p>
@@ -143,6 +145,8 @@ $array = [
         <h2> <?= $section_five["Titolo"] ?> </h2>
         <p> <?= $section_five["Paragrafo"] ?> </p>
     </div>
+</div>
+ 
 
 
 
